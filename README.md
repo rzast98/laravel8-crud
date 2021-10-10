@@ -12,6 +12,18 @@
 <ul>
     <li> Create Project  </li>
     <p> - Storage Link </p>
-
+    <li> Buat model dan migration </li>
+    <p> - make blabla -m </br>
+        - Isi field migration</p>
+    <li> Add mass assigment </li>
+    <p>-isi fillable yang di ijinkan </p>
+    <li> Membuat Controller </li>
+    <p>- Import model dulu </br>
+	use App\Models\Crud; </br>
+  - Import http request </br>
+  	use Illuminate\Http\Request; </br>
+  - Import facades storage untuk store dan upload ke server </br>
+	use Illuminate\Support\Facades\Storage; </br>
+  - Membuat function index untuk menampilkan data </p>
 </ul>
 
