@@ -25,5 +25,13 @@
   - Import facades storage untuk store dan upload ke server </br>
 	use Illuminate\Support\Facades\Storage; </br>
   - Membuat function index untuk menampilkan data </p>
+  <li>Membuat Route </li>
+  <p> - Uncomment protected $namespace = 'App\\Http\\Controllers';</p>
+  <li> Membuat view index</li>
+   <li>Membuat function store dan create </li>
+    <li>Membuat view create </li>
+     <li>Function Edit </li>
+      <li>View Edit </li>
+       <li> Function Destroy</li>
 </ul>
 
